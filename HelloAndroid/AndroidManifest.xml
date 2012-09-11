@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.helloandroid"
-    android:versionCode="12"
-    android:versionName="1.0.0r12" >
+    android:versionCode="13"
+    android:versionName="1.0.0r13" >
 
     <uses-sdk
         android:minSdkVersion="8"
